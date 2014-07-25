@@ -17,6 +17,8 @@ public class HomeController {
 	public String home(Locale locale, Model model) {
 		
 		System.out.println(1111);
+		System.out.println("helloworld");
+		System.out.println("hai");
 		
 		
 		
