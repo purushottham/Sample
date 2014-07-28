@@ -19,11 +19,28 @@ public class HomeController {
 		System.out.println(1111);
 		System.out.println("helloworld");
 		System.out.println("hai");
+
+
+		System.out.println("djdsjlds");
+		System.out.println("imageUrl");
+
 		System.out.println("nagarjuna");
+
+
+		System.out.println("nagarjuna");
+
 		
+
+		System.out.println("ch");
+
+
 		System.out.println("chiru");
 
 		return "home";
+	}
+	public void show()
+	{
+		System.out.println("the output is printed");
 	}
 	
 }
