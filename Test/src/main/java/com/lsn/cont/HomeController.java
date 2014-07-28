@@ -26,9 +26,14 @@ public class HomeController {
 
 		System.out.println("nagarjuna");
 
+
 		System.out.println("nagarjuna");
 
 		
+
+		System.out.println("ch");
+
+
 		System.out.println("chiru");
 
 		return "home";
